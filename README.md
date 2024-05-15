@@ -20,10 +20,7 @@ In the Mitron Bank Credit Card Expansion, our aim was to diversify offerings and
 5. Anticipated positive business impact - higher card usage, increased spending, enhanced brand image for Mitron Bank. This project signifies the synergy between data analytics and business strategy, poised to elevate Mitron Bank's standing in the financial market.
 
 
-[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNGI5NDhkODEtZjNlMy00YjRiLWFlNDQtZGE1ZWI3NTEzZjEwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjQ2ZDEyM2ItZmM5Yy00MzAyLWIwNDktMmIzNTFjOTYxZTI5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 
-**Dashboard Glimpse:**
-
-![sc](https://github.com/srinathankolla/strategic-insights-banking-industry/assets/115559003/d4c93b0e-0846-4a02-ab24-c53d6eda7d09)
