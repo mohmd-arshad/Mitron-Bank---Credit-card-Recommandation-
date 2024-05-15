@@ -23,4 +23,6 @@ In the Mitron Bank Credit Card Expansion, our aim was to diversify offerings and
 [Link to Interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjQ2ZDEyM2ItZmM5Yy00MzAyLWIwNDktMmIzNTFjOTYxZTI5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
+**Dashboard Glimpse:**![Screenshot 2024-05-15 142828](https://github.com/mohmd-arshad/Mitron-Bank---Credit-card-Recommandation-/assets/156289570/836134e3-2578-4a04-8ee0-5a9e31536baf)
+
 
